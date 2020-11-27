@@ -12,3 +12,7 @@ Sets up VIM and tmux according to my personal flavor.
   ~/linux-setup/setup.sh
   ```
 3. Voilà!
+  Feel free to remove the cloned repository.
+  ```bash
+  rm -rf ~/linux-setup
+  ```
